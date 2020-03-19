@@ -45,10 +45,10 @@
         cursor: pointer !important;
 
         .item-count-box {
-          background: transparent !important;
-          color: @taiga-light !important;
-          box-shadow: 0 0.5px 0 @taiga-light, 0 -0.5px 0 @taiga-light, 0.5px 0 0 @taiga-light,
-            -0.5px 0 0 @taiga-light !important;
+          background: @taiga-accent; // changed from transparent !important;
+          color: @white !important; // changed from @taiga-light !important;
+          box-shadow: 0 0.5px 0 @taiga-accent, 0 -0.5px 0 @taiga-accent, 0.5px 0 0 @taiga-accent,
+            -0.5px 0 0 @taiga-accent !important; // changed taiga-light to taiga-accent
         }
 
         &.selected {
