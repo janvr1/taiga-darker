@@ -1,5 +1,9 @@
-# Taiga
+# Taiga-Darker
 
-Taiga is a clean, simple, Mailbox-inspired theme for N1 that allows you to focus on what matters most: your emails.
+To install:
+* Clone (or download) this repository
+* Open Mailspring menu and click "Install theme"
+* Select the downloaded folder
+* Restart Mailspring
 
-![](./preview.jpg)
+![](./preview.png)
